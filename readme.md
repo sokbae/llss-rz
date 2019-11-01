@@ -3,6 +3,7 @@ Replication codes for "Desperate times call for desperate measures: government s
 
 
 rz-thr-test.R: Using the sup-Wald test in Hansen (2000), it conducts inference for multiple regimes. Main outputs are
+
 	(1) rz-thr-test.out
 	(2) graph-thr-het-500.pdf
 	(3) graph-thr-het-458.pdf
